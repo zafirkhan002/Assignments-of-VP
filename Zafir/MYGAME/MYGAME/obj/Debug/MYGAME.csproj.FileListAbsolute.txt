@@ -1,0 +1,14 @@
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\bin\Debug\MYGAME.exe.config
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\bin\Debug\MYGAME.exe
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\bin\Debug\MYGAME.pdb
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.csprojResolveAssemblyReference.cache
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.Form1.resources
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.Form2.resources
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.Properties.Resources.resources
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.csproj.GenerateResource.Cache
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.exe
+c:\users\ramesh\desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.pdb
+C:\Users\Ramesh\Desktop\Projects\MYGAME\MYGAME\bin\Debug\MYGAME.exe.manifest
+C:\Users\Ramesh\Desktop\Projects\MYGAME\MYGAME\bin\Debug\MYGAME.application
+C:\Users\Ramesh\Desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.exe.manifest
+C:\Users\Ramesh\Desktop\Projects\MYGAME\MYGAME\obj\Debug\MYGAME.application

@@ -1,0 +1,45 @@
+c:\users\ramesh\desktop\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.exe.config
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.exe
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.pdb
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form1.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form2.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Properties.Resources.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.exe
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.pdb
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form3.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form7.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form4.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form5.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form6.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form8.resources
+C:\Users\Ramesh\Desktop\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form9.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.exe.config
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form1.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form2.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form3.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Properties.Resources.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form4.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form5.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form6.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form7.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form8.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form9.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form10.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form11.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form12.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.so.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.DC.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.invorec.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.Form13.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.exe.manifest
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\bin\Debug\ERP.project.application
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.exe.manifest
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ERP.project\ERP.project\obj\Debug\ERP.project.application

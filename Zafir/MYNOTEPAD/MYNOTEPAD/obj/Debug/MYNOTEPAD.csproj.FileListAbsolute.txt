@@ -1,0 +1,15 @@
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\bin\Debug\MYNOTEPAD.exe.config
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\bin\Debug\MYNOTEPAD.exe
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\bin\Debug\MYNOTEPAD.pdb
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.csprojResolveAssemblyReference.cache
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.Find.resources
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.Form1.resources
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.Properties.Resources.resources
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.Replace.resources
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.csproj.GenerateResource.Cache
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.exe
+c:\users\ramesh\desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.pdb
+C:\Users\Ramesh\Desktop\Projects\MYNOTEPAD\MYNOTEPAD\bin\Debug\MYNOTEPAD.exe.manifest
+C:\Users\Ramesh\Desktop\Projects\MYNOTEPAD\MYNOTEPAD\bin\Debug\MYNOTEPAD.application
+C:\Users\Ramesh\Desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.exe.manifest
+C:\Users\Ramesh\Desktop\Projects\MYNOTEPAD\MYNOTEPAD\obj\Debug\MYNOTEPAD.application
